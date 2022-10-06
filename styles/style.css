@@ -29,7 +29,7 @@ h4 {
    margin: 0 auto;
 }
 
-.visually-hidden {
+/* .visually-hidden {
    position: absolute;
    white-space: nowrap;
    width: 1px;
@@ -40,7 +40,7 @@ h4 {
    clip: rect(0 0 0 0);
    clip-path: inset(50%);
    margin: -1px;
-}
+} */
 
 .container {
    width: 1280px;
@@ -282,9 +282,6 @@ margin-bottom: 120px;
    color: var(--main-color);
 
    margin-bottom: 20px;
-
-
-
 }
 
 .footer-link {
